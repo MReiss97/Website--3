@@ -5,7 +5,7 @@ body, html {
   }
   
   .hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/piqsels-com-id-sudjc.webp");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img/piqsels-com-id-sudjc.webp");
     height: 50%;
     background-position: center;
     background-repeat: no-repeat;
